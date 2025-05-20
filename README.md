@@ -49,4 +49,3 @@
 <a href="https://www.linuxfoundation.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" alt="linux" />
 </a>
-<hr>
